@@ -1,0 +1,21 @@
+.input-label{
+	display: inline-block;
+	width: 24%;
+	vertical-align: top;
+}
+
+input[type="text"], input[type="password"],
+input[type="email"],select,.group-input{
+	display: inline-block !important;
+	width: 75% !important;
+	margin-bottom: 20px;
+}
+
+textarea{
+	margin-bottom: 20px;
+}
+
+/*.submitButton{
+float: right;
+clear: both;
+}*/
